@@ -1,4 +1,4 @@
-visit my blog <https://avenaradio.github.io/blog>
+mein Blog: <https://avenaradio.github.io/blog/_site/>
 
 <!--
 **avenaradio/avenaradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
